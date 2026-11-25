@@ -1,8 +1,8 @@
 class Nerd < Formula
   desc "Terminal multiplexer for AI agents"
   homepage "https://nerdterm.dev"
-  url "https://github.com/nerdterm/nerd/releases/download/v0.23.0/nerd-v0.23.0-macos-arm64.tar.gz"
-  sha256 "c6e0c4aac042637d955129c81f75f3769a96e552d78f9a154f8d7e83f6a3b86b"
+  url "https://github.com/nerdterm/nerd/releases/download/v1.0.0/nerd-v1.0.0-macos-arm64.tar.gz"
+  sha256 "87c6eed80ba1d0fce639f88e528e611abb7fb390f94cc656d0daf6946d0e0d21"
   license "MIT"
 
   livecheck do
